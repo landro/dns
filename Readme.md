@@ -1,0 +1,1 @@
+Project shows what effects DNS round robin has on different java HTTP Clients
